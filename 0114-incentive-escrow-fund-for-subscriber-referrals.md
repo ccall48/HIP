@@ -11,11 +11,11 @@
 
 ## Summary
 
-Service Provider rewards will be used to programmatically issues various incentives (like referral fees) to grow Helium network subscriber base.
+Service Provider rewards will be used to programmatically issue various incentives (like referral fees) to grow the Helium network subscriber base.
     
 ##  Motivation
 
-Helium Network utility is a function of the number of subscribers sending paid data to the network. I.e. we want more subscribers. Per HIP53, service provider rewards bucket was originally designed to empower service providers to bring more subscribers to the network using token incentives.
+Helium Network utility is a function of the number of subscribers sending paid data to the network. I.e. we want more subscribers. Per HIP53, the service provider rewards bucket was originally designed to empower service providers to bring more subscribers to the network using token incentives.
 Today, the service provider bucket is mostly unused. Some rewards go to Helium Mobile for the traffic, but 90%+ of it is just never emitted.
 
 We propose a referral incentive program that would channel rewards to the community referring users that take advantage of un-emitted MOBILE in the service provider bucket.
@@ -46,7 +46,7 @@ This proposal introduces an additional layer of complexity to the already comple
 
 It may also be argued that allowing service providers the freedom to define the structure of a referral program is prone to gaming. Poorly designed and implemented referral schemes could result in exploits where referral payouts for fake users.
 
-Finally, since this proposal does require that incentive programs launched by service providers require that referred subscribers send data to the Helium Network, service providers will be using “network’s emissions” to attract subscribers that will bring revenue to the service provider, but not the network.
+Finally, since this proposal does not require that incentive programs launched by service providers require that referred subscribers send data to the Helium Network, service providers will be using “network’s emissions” to attract subscribers that will bring revenue to the service provider, but not the network.
 
 ## Rationale and Alternatives
 
